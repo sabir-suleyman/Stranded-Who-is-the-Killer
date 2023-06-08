@@ -3,7 +3,8 @@
 <a href="README.tr.md"><img src="https://img.shields.io/badge/-T%C3%9CRK%C3%87E-red?style=for-the-badge"></a>
 
 # Proje Detayları
-Proje "BMB2018-Bilgisayar Oyunları ve Simülasyon" dersinin bitrime projesi olarak Unity Oyun motorunda hazırlanmış olan 3d oyundur. (Güncelle burayı)
+
+"BMB2018-Bilgisayar Oyunları ve Simülasyon" dersinin bitirme projesi olarak Unity oyun motoru ile hazırlanan  3d FPS Macera oyunu.
 
 # Takım Üyeleri
 
