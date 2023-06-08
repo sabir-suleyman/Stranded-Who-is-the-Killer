@@ -16,7 +16,7 @@
 
 
 # Name of the Game
-Our game is called "**Stranded: Who's the Killer?"
+Our game is called "**Stranded: Who's the Killer?**"
 
 # Game Plot:
 The game features a serial killer and our main character. The serial killer has imprisoned our character on an island and promises that he will not kill him and will surrender if he finds him with the clues he gives him. Our character starts to follow the clues to save his life and to reveal the identity of the killer who took the lives of his loved ones.
