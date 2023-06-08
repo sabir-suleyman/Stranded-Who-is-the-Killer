@@ -1,5 +1,5 @@
 # Oyunun Adı
-Oyunumuzun ismi "**Stranded: Who's the Killer?**" dir.
+Oyunumuzun adı "**Stranded: Who's the Killer?**" dir.
 
 
 # Oyunun Konusu:
@@ -23,3 +23,12 @@ Geçtiğimiz anda ekran siyahlaşır ve 2. seviyeye geçtiğimiz oyuncuya bildir
 
 ## Domain Model
 
+![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/domain.png)
+
+## Class Diyagram
+
+![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/uml%20(2).png)
+
+## Use Case Diyagram
+
+![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/use%20case.png)
