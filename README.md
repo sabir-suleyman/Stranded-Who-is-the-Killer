@@ -4,6 +4,7 @@
 
 # Project Details
 
+3D FPS Adventure game prepared with Unity game engine as the capstone project of "BMB2018-Computer Games and Simulation" subject.
 
 # Team Members
 
