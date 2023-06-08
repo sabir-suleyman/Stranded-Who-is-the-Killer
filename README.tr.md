@@ -42,15 +42,15 @@ Geçtiğimiz anda ekran siyahlaşır ve 2. seviyeye geçtiğimiz oyuncuya bildir
 
 ## Domain Model
 
-![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/domain.png)
+![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/images/domain.png)
 
 ## Class Diyagram
 
-![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/uml%20(2).png)
+![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/images/uml%20(2).png)
 
 ## Use Case Diyagram
 
-![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/use%20case.png)
+![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/images/use%20case.png)
 
 # Oyundan görseller
 
