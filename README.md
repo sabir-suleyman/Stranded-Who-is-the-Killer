@@ -1,3 +1,16 @@
+# Proje Detayları
+Proje "BMB2018-Bilgisayar Oyunları ve Simülasyon" dersinin bitrime projesi olarak Unity Oyun motorunda hazırlanmış olan 3d oyundur. (Güncelle burayı)
+
+# Takım Üyeleri
+
+| İsim                  | GitHub Kullanıcı Adı                                |
+|-----------------------|-----------------------------------------------------|
+| Sabir Süleymanlı      | [sabir-suleyman](https://github.com/sabir-suleyman) |
+| Zeynep Uysal          | [zeynep-u](https://github.com/zeynep-u)             |
+| Zeynep Kılınçer       | [zkilincer](https://github.com/zkilincer)           |
+| İrem İÇÖZ             | [irem0](https://github.com/irem0)                   |
+
+
 # Oyunun Adı
 Oyunumuzun adı "**Stranded: Who's the Killer?**" dir.
 
