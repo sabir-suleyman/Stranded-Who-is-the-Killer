@@ -56,3 +56,9 @@ Geçtiğimiz anda ekran siyahlaşır ve 2. seviyeye geçtiğimiz oyuncuya bildir
 ![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/use%20case.png)
 
 # Oyundan görseller
+
+![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/images/oyun1.PNG)
+![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/images/oyun2.PNG)
+![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/images/oyun3.PNG)
+![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/images/oyun4.PNG)
+![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/images/oyun5.PNG)
