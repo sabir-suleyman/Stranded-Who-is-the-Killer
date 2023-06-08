@@ -43,15 +43,15 @@ We are told that we have reached level 3. Since it is now dark, the character wa
 
 ## Domain Model
 
-![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/images/domain.png)
+![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/images/domaineng.png)
 
 ## Class Diagram
 
-![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/images/uml%20(2).png)
+![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/images/umleng.png)
 
 ## Use Case Diagram
 
-![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/images/use%20case.png)
+![image](https://github.com/sabir-suleyman/Stranded-Who-is-the-Killer/blob/main/images/usecaseeng.png)
 
 # Images from the game
 
