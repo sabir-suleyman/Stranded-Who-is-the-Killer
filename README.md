@@ -16,7 +16,7 @@
 | İrem İÇÖZ             | [irem0](https://github.com/irem0)                   |
 
 
-# Name of the Game
+# 🕹 Name of the Game
 Our game is called "**Stranded: Who's the Killer?**"
 
 # 🎮 Game Plot:
